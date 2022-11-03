@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moon</h1>
 
 
-- 💬 Ask me about **Android , MERN**
 
 - 📫 How to reach me **armmoon4@gmail.com**
 
