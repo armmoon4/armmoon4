@@ -5,7 +5,6 @@
 - 📫 How to reach me **armmoon4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <img src="zeig-infotech-seo-gif.gif">
 <a href="https://fb.com/armmoon4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="armmoon4" height="30" width="40" /></a>
 <a href="https://instagram.com/armmoon4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armmoon4" height="30" width="40" /></a>
 <a href="https://dribbble.com/armmoon4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="armmoon4" height="30" width="40" /></a>
