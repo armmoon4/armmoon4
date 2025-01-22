@@ -24,16 +24,17 @@
 
 
 <h3>🏅 Certification Badges</h3>
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div style="text-align: center;">
+<div style="text-align: center;">
+  <div style="margin: 10px 0;">
     <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Certificate" width="100">
-    <p style="margin: 5px 0; font-size: 14px;">Google Cybersecurity Certificate</p>
+    <span style="font-size: 14px; margin-left: 10px;">Google Cybersecurity Certificate</span>
   </div>
-  <div style="text-align: center;">
+  <div style="margin: 10px 0;">
     <img src="https://images.credly.com/size/340x340/images/219c668d-4b20-407b-b8a1-ca12a66192d3/image.png" alt="IBM Machine Learning Specialist - Professional" width="100">
-    <p style="margin: 5px 0; font-size: 14px;">IBM Machine Learning Specialist - Professional</p>
+    <span style="font-size: 14px; margin-left: 10px;">IBM Machine Learning Specialist - Professional</span>
   </div>
 </div>
+
 
 
 
