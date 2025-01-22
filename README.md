@@ -19,7 +19,7 @@
 ### 🌐 TryHackMe
 
 <a href="https://tryhackme.com/p/thisismorningST4R" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/thisismorningST4R.png" alt="TryHackMe Badge" width="100">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/thisismorningST4R.png" alt="TryHackMe Badge">
 </a>
 
 
