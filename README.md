@@ -22,3 +22,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armmoon4&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armmoon4&show_icons=true&theme=radical)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=armmoon4)](https://github.com/armmoon4/github-readme-stats)
