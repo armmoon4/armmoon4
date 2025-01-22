@@ -31,7 +31,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=armmoon4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Badge Example](https://tryhackme.com/api/badge/2172928)
+### 🌐 TryHackMe Badge
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/thisismorningST4R.png)
+
+[View My TryHackMe Profile](https://tryhackme.com/p/thisismorningST4R)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
