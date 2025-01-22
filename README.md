@@ -18,9 +18,10 @@
 
 ### 🌐 TryHackMe
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/thisismorningST4R.png)
+<a href="https://tryhackme.com/p/thisismorningST4R" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/thisismorningST4R.png" alt="TryHackMe Badge" width="100">
+</a>
 
-[View My Profile](https://tryhackme.com/p/thisismorningST4R)
 
 
 <h3>🏅 Certification Badges</h3>
