@@ -24,20 +24,25 @@
 
 
 <h3>🏅 Certification Badges</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Badge" width="100">
-  <img src="https://images.credly.com/size/340x340/images/219c668d-4b20-407b-b8a1-ca12a66192d3/image.png" alt="Badge" width="100">
-  <img src="https://images.credly.com/size/340x340/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="Badge" width="100">
-  <img src="https://images.credly.com/size/340x340/images/5ee26427-f944-4182-b802-459462184c9a/image.png" alt="Badge" width="100">
-  <img src="https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="Badge" width="100">
-  <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Badge" width="100">
-  <img src="https://images.credly.com/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" alt="Badge" width="100">
-  <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Badge" width="100">
-  <img src="https://images.credly.com/size/340x340/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png" alt="Badge" width="100">
-  <img src="https://images.credly.com/size/340x340/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" alt="Badge" width="100">
-  <img src="https://images.credly.com/size/340x340/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="Badge" width="100">
-  <img src="https://images.credly.com/size/340x340/images/6f458365-ea60-44e7-acdd-88d9dd114cf2/image.png" alt="Badge" width="100">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 720px;">
+    <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Badge" width="100">
+    <img src="https://images.credly.com/size/340x340/images/219c668d-4b20-407b-b8a1-ca12a66192d3/image.png" alt="Badge" width="100">
+    <img src="https://images.credly.com/size/340x340/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="Badge" width="100">
+    <img src="https://images.credly.com/size/340x340/images/5ee26427-f944-4182-b802-459462184c9a/image.png" alt="Badge" width="100">
+    <img src="https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="Badge" width="100">
+    <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Badge" width="100">
+  </div>
+  <div style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 720px;">
+    <img src="https://images.credly.com/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" alt="Badge" width="100">
+    <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Badge" width="100">
+    <img src="https://images.credly.com/size/340x340/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png" alt="Badge" width="100">
+    <img src="https://images.credly.com/size/340x340/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" alt="Badge" width="100">
+    <img src="https://images.credly.com/size/340x340/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="Badge" width="100">
+    <img src="https://images.credly.com/size/340x340/images/6f458365-ea60-44e7-acdd-88d9dd114cf2/image.png" alt="Badge" width="100">
+  </div>
 </div>
+
 
 
 
