@@ -31,6 +31,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=armmoon4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2172928" style='border:none;'></iframe>
+![Badge Example](https://tryhackme.com/api/badge/2172928)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
