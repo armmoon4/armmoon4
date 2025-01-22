@@ -22,6 +22,17 @@
 
 [View My Profile](https://tryhackme.com/p/thisismorningST4R)
 
+
+### 🏅 Certification Badges
+
+#### Google Cybersecurity Certificate  
+![Google Cybersecurity Certificate](https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)
+
+#### IBM Machine Learning Specialist - Professional  
+![IBM Machine Learning Specialist - Professional](https://images.credly.com/size/340x340/images/219c668d-4b20-407b-b8a1-ca12a66192d3/image.png)
+
+
+
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=armmoon4&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=armmoon4&theme=default&hide_border=false)<br/>
