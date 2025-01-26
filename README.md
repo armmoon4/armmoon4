@@ -65,12 +65,7 @@ I'm a **Cybersecurity Enthusiast** and **Machine Learning Specialist** with a Ba
 
 
 
-#### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=armmoon4&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=armmoon4&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=armmoon4&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+---
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -90,7 +85,11 @@ I’m always open to discussing new projects, ideas, or opportunities to collabo
 
 ---
 
+### 📈 Activity
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=armmoon4&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
