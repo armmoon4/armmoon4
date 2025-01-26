@@ -6,11 +6,18 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:armmoon4@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armooon4&label=Profile%20views&color=0e75b6&style=flat" alt="armooon4" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/armmoon4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/armmoon4" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/armmoon4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="https://www.facebook.com/armmoon4" height="30" width="40" /></a>
-</p>
+---
+
+### About Me
+
+I'm a **Data Analyst** and **AI Enthusiast** with a Bachelor's Degree in Computer Science & Engineering. I love working on real-life projects and leveraging tools like **Excel**, **Power BI**, **Python**, **SQL**, and **Machine Learning** to turn data into actionable insights.
+
+- 🌱 Currently honing my skills in **Full-Stack Software Development** and **Building Scalable Applications**.
+- 🔒 Passionate about crafting **Cybersecurity** solutions and developing insightful threat analysis tools to enhance system protection.
+- 💻 Enjoy coding in **Python**, **C**, and **C++**, focusing on creating useful tools and projects.
+- 🤖 Have a knack for **Machine Learning** and enjoy applying AI-driven solutions to enhance real-world projects.
+- 🎯 **I’m looking for an entry-level Data Analyst role** to leverage my skills in a professional setting.
+---
 
 
 ### 💻 Tech Stack:
