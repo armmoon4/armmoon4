@@ -16,7 +16,7 @@ I'm a **Data Analyst** and **AI Enthusiast** with a Bachelor's Degree in Compute
 - 🔒 Passionate about crafting **Cybersecurity** solutions and developing insightful threat analysis tools to enhance system protection.
 - 💻 Enjoy coding in **Python**, **C**, and **C++**, focusing on creating useful tools and projects.
 - 🤖 Have a knack for **Machine Learning** and enjoy applying AI-driven solutions to enhance real-world projects.
-- 🎯 **I’m looking for an entry-level Data Analyst role** to leverage my skills in a professional setting.
+- 🎯 **I’m looking for an entry-level Cyber Security Analyst role** to leverage my skills in a professional setting.
 ---
 
 
