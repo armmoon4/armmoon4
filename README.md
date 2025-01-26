@@ -10,7 +10,7 @@
 
 ### About Me
 
-I'm a **Data Analyst** and **AI Enthusiast** with a Bachelor's Degree in Computer Science & Engineering. I love working on real-life projects and leveraging tools like **Excel**, **Power BI**, **Python**, **SQL**, and **Machine Learning** to turn data into actionable insights.
+I'm a **Cybersecurity Enthusiast** and **Machine Learning Specialist** with a Bachelor's Degree in Computer Science & Engineering.I enjoy exploring the intersections of technology and security while building innovative solutions.
 
 - 🌱 Currently honing my skills in **Full-Stack Software Development** and **Building Scalable Applications**.
 - 🔒 Passionate about crafting **Cybersecurity** solutions and developing insightful threat analysis tools to enhance system protection.
