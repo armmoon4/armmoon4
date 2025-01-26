@@ -78,6 +78,18 @@ I'm a **Cybersecurity Enthusiast** and **Machine Learning Specialist** with a Ba
 [![](https://visitcount.itsvg.in/api?id=armmoon4&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+---
+
+### Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaun-mia/) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaunmia.cse@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://shaun-mia.github.io/)
+
+I’m always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out!
+
+---
+
 
 
 
