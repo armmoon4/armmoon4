@@ -5,6 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armooon4&label=Profile%20views&color=0e75b6&style=flat" alt="armooon4" /> </p>
 
 
+# Hi there, I'm Moon! 👋
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://armmoon4.github.io/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armmoon4/) 
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@armmoon4)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:armmoon4@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
