@@ -33,6 +33,9 @@ I'm a **Cybersecurity Enthusiast** and **Machine Learning Specialist** with a Ba
 - Data Statistics
 - Analytical Thinking
 
+
+---  
+
 #### TryHackMe
 
 <a href="https://tryhackme.com/p/thisismorningST4R" target="_blank">
@@ -40,6 +43,7 @@ I'm a **Cybersecurity Enthusiast** and **Machine Learning Specialist** with a Ba
 </a>
 
 
+---
 
 <h4>🏅 Certification Badges</h4>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
