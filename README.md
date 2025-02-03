@@ -38,8 +38,8 @@ I'm a **Cybersecurity Enthusiast** and **Machine Learning Specialist** with a Ba
 
 #### TryHackMe
 
-<a href="https://tryhackme.com/p/shadowRoot" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/shadowRoot.png" alt="TryHackMe Badge">
+<a href="https://tryhackme.com/p/zeroTrace" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/zeroTrace.png" alt="TryHackMe Badge">
 </a>
 
 
