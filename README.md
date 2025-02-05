@@ -1,6 +1,6 @@
 ![logo](https://github.com/armmoon4/armmoon4/blob/main/test2sss.gif)
 # Hi there, I'm Moon! 👋
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://armmoon4.github.io/) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)]([https://armmoon4.github.io/](https://sites.google.com/diu.edu.bd/armmon4/home)) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armmoon4/) 
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@armmoon4)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:armmoon4@gmail.com)
@@ -81,7 +81,7 @@ I'm a **Cybersecurity Enthusiast** and **Machine Learning Specialist** with a Ba
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armmoon4/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:armmoon4@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://armmoon4.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)]([https://armmoon4.github.io/](https://sites.google.com/diu.edu.bd/armmon4/home))
 
 I’m always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out!
 
