@@ -40,6 +40,7 @@ I'm a **Cybersecurity Enthusiast** and **Machine Learning Specialist** with a Ba
 
 <a href="https://tryhackme.com/p/ghostnodeNov4" target="_blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/ghostnodeNov4.png" alt="Your Image Badge" />
+
 </a>
 
 
