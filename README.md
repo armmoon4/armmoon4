@@ -16,7 +16,7 @@ I'm a **Backend Developer** and **Machine Learning Specialist** with a Bachelor'
 - 🔒 Passionate about crafting **Cybersecurity** solutions and developing insightful threat analysis tools to enhance system protection.
 - 💻 Enjoy coding in **Python**, **C**, and **C++**, focusing on creating useful tools and projects.
 - 🤖 Have a knack for **Machine Learning** and enjoy applying AI-driven solutions to enhance real-world projects.
-- 🎯 **I’m looking for an entry-level Front-end role** to leverage my skills in a professional setting.
+- 🎯 **I’m looking for an software enginner  role** to leverage my skills in a professional setting.
 ---
 ### Skills
 
