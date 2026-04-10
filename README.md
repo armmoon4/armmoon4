@@ -12,7 +12,7 @@
 
 I'm a **Full-stack Engineer** and **Machine Learning Specialist** with a Bachelor's Degree in Computer Science & Engineering.I enjoy exploring the intersections of technology and security while building innovative solutions.
 
-- 🌱 Currently honing my skills in **Full-Stack Software Development** and **Building Scalable Applications**.
+- 🌱 Currently honing my skills in **AI Intregation** and **Building Scalable Applications**.
 - 🔒 Passionate about crafting **Cybersecurity** solutions and developing insightful threat analysis tools to enhance system protection.
 - 💻 Enjoy coding in **Python**, **C**, and **C++**, focusing on creating useful tools and projects.
 - 🤖 Have a knack for **Machine Learning** and enjoy applying AI-driven solutions to enhance real-world projects.
