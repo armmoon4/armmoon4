@@ -2,9 +2,7 @@
 
 <img src="https://github.com/armmoon4/armmoon4/blob/main/test2sss.gif" width="100%" />
 
-# Hi there, I'm Moon 👋
-
-### Full-Stack Engineer • Machine Learning Specialist • Cybersecurity Enthusiast
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Moon+%F0%9F%91%8B;Full-Stack+Engineer;Machine+Learning+Specialist;Cybersecurity+Enthusiast" alt="Typing SVG" />
 
 <p>
   <a href="https://sites.google.com/diu.edu.bd/armmon4/home"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
@@ -17,7 +15,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:FF5722&height=100&section=header" width="100%"/>
 
 ### 🧠 About Me
 
@@ -106,6 +104,11 @@ I'm a **Full-Stack Engineer** and **Machine Learning Specialist** with a Bachelo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=armmoon4&radius=16&theme=react&area=true&order=5" height="280" alt="activity-graph" />
 </div>
 
+<!-- Animated contribution snake — see setup note below the code block -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/armmoon4/armmoon4/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</div>
+
 ---
 
 ### 🎯 TryHackMe
@@ -152,4 +155,4 @@ I'm a **Full-Stack Engineer** and **Machine Learning Specialist** with a Bachelo
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5722,100:0e75b6&height=100&section=footer" width="100%"/>
