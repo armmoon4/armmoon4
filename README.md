@@ -92,10 +92,7 @@ I'm a **Full-Stack Engineer** and **Machine Learning Specialist** with a Bachelo
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armmoon4&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armmoon4&theme=radical&hide_border=true" height="165" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armmoon4&layout=compact&theme=radical&hide_border=true" height="165" />
