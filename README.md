@@ -105,11 +105,6 @@ I'm a **Full-Stack Engineer** and **Machine Learning Specialist** with a Bachelo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=armmoon4&radius=16&theme=react&area=true&order=5" height="280" alt="activity-graph" />
 </div>
 
-<!-- Animated contribution snake — see setup note below the code block -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/armmoon4/armmoon4/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</div>
-
 ---
 
 ### 🎯 TryHackMe
