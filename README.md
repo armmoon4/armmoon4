@@ -4,7 +4,7 @@
 
 <img src="https://github.com/armmoon4/armmoon4/blob/main/test2sss.gif" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Moon+%F0%9F%91%8B;Full-Stack+Engineer;Machine+Learning+Specialist;Cybersecurity+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Moon+%F0%9F%91%8B;AI+Engineer;Machine+Learning+Specialist;Cybersecurity+Enthusiast" alt="Typing SVG" />
 
 <p>
   <a href="https://sites.google.com/diu.edu.bd/armmon4/home"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
