@@ -106,8 +106,8 @@ I'm a **Full-Stack Engineer** and **Machine Learning Specialist** with a Bachelo
 
 ### 🎯 TryHackMe
 
-<a href="https://tryhackme.com/p/ghostnodeNov4" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ghostnodeNov4.png" alt="TryHackMe Badge" />
+<a href="https://tryhackme.com/p/supernov4" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/supernov4.png" alt="TryHackMe Badge" />
 </a>
 
 ---
