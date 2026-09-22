@@ -20,7 +20,7 @@
 
 ### 🧠 About Me
 
-I'm a **Full-Stack Engineer** and **Machine Learning Specialist** with a Bachelor's degree in Computer Science & Engineering. I love exploring the intersection of technology and security while building solutions that actually matter.
+I'm a **Ai Engineer** and **Machine Learning Specialist** with a Bachelor's degree in Computer Science & Engineering. I love exploring the intersection of technology and security while building solutions that actually matter.
 
 - 🌱 Currently sharpening my skills in **AI Integration** and **building scalable applications**
 - 🔒 Passionate about **cybersecurity** — crafting threat-analysis tools that strengthen system protection
@@ -106,9 +106,23 @@ I'm a **Full-Stack Engineer** and **Machine Learning Specialist** with a Bachelo
 
 ### 🎯 TryHackMe
 
-<a href="https://tryhackme.com/p/supernov4" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/supernov4.png" alt="TryHackMe Badge" />
-</a>
+<div align="center">
+  <a href="https://tryhackme.com/p/supernov4" target="_blank" style="text-decoration: none;">
+    <table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td bgcolor="#212C42" align="center" style="padding: 18px 32px; border-radius: 10px;">
+          <a href="https://tryhackme.com/p/supernov4" target="_blank">
+            <img src="https://img.shields.io/badge/TryHackMe-supernov4-880000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge" />
+          </a>
+          <br/><br/>
+          <font color="#9EA0A3" size="2" face="sans-serif">
+            Click to view <b>@supernov4</b> on TryHackMe
+          </font>
+        </td>
+      </tr>
+    </table>
+  </a>
+</div>
 
 ---
 
